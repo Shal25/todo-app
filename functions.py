@@ -7,5 +7,5 @@ def get_todos(filepath="todo.txt"):
 def write_todos(todos_arg, filepath="todo.txt"):
     with open(filepath, 'w') as file_local:
         file_local.writelines(todos_arg)
-    return todos
+
 
