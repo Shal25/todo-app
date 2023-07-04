@@ -1,6 +1,5 @@
 clean
 play
 make
-throw
 bake
-cook
+draw
