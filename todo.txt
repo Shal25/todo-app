@@ -2,4 +2,3 @@ clean
 play
 make
 bake
-draw
