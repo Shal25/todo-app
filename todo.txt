@@ -2,3 +2,6 @@ clean
 play
 make
 sleep
+Bake a cake
+Do homeworkPractice GuitarCookPractice chords
+Make dinner
